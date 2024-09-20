@@ -1,11 +1,16 @@
 _repo: Through-unknown-Nigeria_74268
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74268-h/images/cover.jpg
 creator:
   author:
     agent_name: Raphael, John R.
     gutenberg_agent_id: '57418'
     url: http://www.gutenberg.org/2009/agents/57418
 description: Illustrated from photographs by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74268#Through-unknown-Nigeria
 gutenberg_issued: '2024-08-16'
 gutenberg_type: Text
 identifiers:
